@@ -45,7 +45,7 @@ def masg(call):
 	
 	global nam
 	
-	if call.data =="BJRRR":
+	if call.data =="K_8_U":
 		
 		mas = types.InlineKeyboardMarkup(row_width=2)
 		
